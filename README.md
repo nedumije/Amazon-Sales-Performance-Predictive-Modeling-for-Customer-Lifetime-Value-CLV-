@@ -119,15 +119,15 @@ D. R-squared (R²): Proportion of variance in CLV explained by the model.
 
 RESULTS
 
-METRIC                   VALUE
+METRIC                                       VALUE
 
-MSE                   1,118,158.07
+MSE                                         1,118,158.07
 
-RMSE                  1,057.43
+RMSE                                        1,057.43
 
-MAE                   737.99
+MAE                                         737.99
 
-R²                    0.5878
+R²                                          0.5878
 
 
 The R² value of 0.5878 indicates that the model explains approximately 59% of the variance in CLV, demonstrating moderate predictive power. The RMSE and MAE suggest that predictions are reasonably accurate but could benefit from further refinement.
